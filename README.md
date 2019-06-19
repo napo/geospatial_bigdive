@@ -12,4 +12,4 @@ The lesson is in 4 modules:
 3. [Visualizing Geospatial Data](https://github.com/napo/geospatial_bigdive/blob/master/03%20-%20Visualizing%20Geospatial%20Data%20%23bigdive8.ipynb) 
 4. Geocoding and Clustering
 
-The lesson will be presented also in QGIS way
+The lesson will be presented also in [QGIS](http://qgis.org) way
