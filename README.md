@@ -13,3 +13,5 @@ The lesson is in 4 modules:
 4. Geocoding and Clustering
 
 The lesson will be presented also in [QGIS](http://qgis.org) way
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/napo/geospatial_bigdive/master)
