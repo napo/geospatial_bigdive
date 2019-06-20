@@ -11,7 +11,8 @@ The lesson is in 5 modules:
 2. [Spatial relationships and operations](https://github.com/napo/geospatial_bigdive/blob/master/02%20-%20%20Spatial%20relationships%20and%20operations%20%23bigdive8.ipynb)
 3. [Visualizing Geospatial Data](https://github.com/napo/geospatial_bigdive/blob/master/03%20-%20Visualizing%20Geospatial%20Data%20%23bigdive8.ipynb) 
 4. [Geocoding](https://github.com/napo/geospatial_bigdive/blob/master/04%20-%20Geocoding%20%23bigdive8.ipynb) 
-5. Clustering
+5. [Clustering](https://github.com/napo/geospatial_bigdive/blob/master/05%20-%20Clustering%20%23bigdive8.ipynb)
+6. [Street Network Analysis with osmnx](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/06-example-osmnx-networkx.ipynb)
 
 The lesson will be presented also in [QGIS](http://qgis.org) way
 
