@@ -16,6 +16,8 @@ The lesson is in 6 modules:
 
 The scripts are created with [Colab](https://colab.research.google.com) 
 
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQb_vF3HJvK5HvcS1Dr2Ckc4V5AKSWV_zgOomppSPMphbOzc4SceB30HndDKA2qQRZAwFqcZMaCoxoC/pub?start=false&loop=false&delayms=3000#slide=id.g3d5818f29f_0_124)
+
 
 Readings:
 * [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
