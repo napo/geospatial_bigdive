@@ -1,5 +1,5 @@
 # geospatial bigdive
-the python notebooks used for the lesson "Spatial is Special: geo techologies and data" for [BigDive 9th edition](https://www.bigdive.eu/big-dive-9/)
+the python notebooks used for the lesson "Spatial is Special: geo techologies and data" for [BigDive 9th edition](https://www.bigdive.eu/big-dive/)
 
 The kind of data used is only vector.
 
