@@ -3,8 +3,7 @@ the python notebooks used for the lesson "Spatial is Special: geo techologies an
 
 The kind of data used is only vector.
 
-
-![](https://www.bigdive.eu/wp-content/uploads/2018/03/map-768x513.png)
+<img src="https://www.bigdive.eu/wp-content/uploads/2018/03/map-768x513.png" width="600">
 
 The lesson is in 6 modules:
 1. [GIS introduction with geopandas (vector data)](https://raw.githubusercontent.com/napo/geospatial_bigdive/master/01_GIS_introduction_with_geopandas_(vector_data)_bigdive9.ipynb)
@@ -14,9 +13,13 @@ The lesson is in 6 modules:
 5. [Clustering](https://raw.githubusercontent.com/napo/geospatial_bigdive/master/05_Clustering_bigdive9.ipynb)
 6. [Street Network Analysis with osmnx](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/00-osmnx-features-demo.ipynb)
 
-The scripts are created with [Colab](https://colab.research.google.com) 
+The scripts are created with [Colab](https://colab.research.google.com)<br/>
+Look here how import<br/>
+<img src="https://raw.githubusercontent.com/napo/geospatial_bigdive/master/img/import_colab_github.gif" width="600">
 
+<img src="https://raw.githubusercontent.com/napo/geospatial_bigdive/master/img/bigdive_geospatial_introduction_preview.png" width="600"><br/>
 [Slide](docs/BigDive_geospatial_Introduction.pdf)
+
 
 
 Readings:
