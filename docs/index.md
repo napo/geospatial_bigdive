@@ -10,8 +10,6 @@ The lesson is in 6 modules:
 3. [Visualizing Geospatial Data](https://raw.githubusercontent.com/napo/geospatial_bigdive/master/03_Visualizing_Geospatial_Data_bigdive.ipynb)
 4. [Geocoding](https://raw.githubusercontent.com/napo/geospatial_bigdive/master/04_Geocoding_bigdive.ipynb) 
 5. [Clustering](https://raw.githubusercontent.com/napo/geospatial_bigdive/master/05_Clustering_bigdive.ipynb)
-6. [Street Network Analysis with osmnx](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/00-osmnx-features-demo.ipynb)
-
 
 note:<br/>
 This tutorial is related only for vector data
