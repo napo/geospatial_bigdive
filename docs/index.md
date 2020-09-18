@@ -23,7 +23,7 @@ Look here how import<br/>
 ## introduction slides
 
 <img src="https://raw.githubusercontent.com/napo/geospatial_bigdive/master/img/bigdive_geospatial_introduction_preview.png" width="600"><br/>
-look the [slides](docs/BigDive_geospatial_Introduction.pdf) for an introduction
+look the [slides](https://github.com/napo/geospatial_bigdive/raw/master/docs/BigDive_geospatial_Introduction.pdf) for an introduction
 
 ## Readings
 * [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
